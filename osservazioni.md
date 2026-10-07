@@ -3,7 +3,8 @@
 Gruppo:
 
 Componenti (nome, cognome e username GitHub di entrambi):
-
+Marta Masi
+Francesca Nervino
 URL del repository condiviso:
 
 Chi ha usato la tastiera nello step 1 e nello step 2:
